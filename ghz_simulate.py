@@ -145,7 +145,7 @@ def cn_build_ghz(n,p_e):
 sc_arr = []
 cn_arr = []
 p_arr = []
-trials  = 2000
+trials  = 10000
 n = 3
     
 for p in range(0,15):

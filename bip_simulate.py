@@ -147,7 +147,7 @@ def cn_build_bip(n,p_e):
 sc_arr = []
 cn_arr = []
 p_arr = []
-trials = 1000
+trials = 10000
 n = 6
     
 for p in range(0,30,2):

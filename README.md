@@ -4,3 +4,6 @@ This repository contains sample programs to carry out various graph state operat
 1. _ghz_simulate.py_ generates graphs of error probability/number of qubits vs fidelity for the two protocols when creating a GHZ state.
 2. _bip_simulate.py_ generates graphs of error probability/number of qubits vs fidelity for the two protocols when creating a complete bipartite graph state.
 3. _ghz_simulate_parallel.py_ generates graphs of error probability/number of qubits vs fidelity for the two protocols when creating a GHZ state incorporating parallelization in the protocol.
+
+![complete_graph_state](https://github.com/Anisen123/graph-state-simulator/assets/87408590/36889e01-c136-4dcb-91bb-1615e2a6d3bb)
+
